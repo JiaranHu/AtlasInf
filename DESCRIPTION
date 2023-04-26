@@ -1,0 +1,23 @@
+Package: AtlasInf
+Type: Package
+Title: A Computational Method Producing Visual In Situ Hybridization(vISH)s for Drosophila Embryo
+Version: 0.1.0
+Author: Feng Zeng
+Maintainer: Feng Zeng <zengfeng@xmu.edu.cn>
+Description: A package to generate vISHs which indecate gene's expression pattern about drosophila embryo.
+License: GPL-3
+Encoding: UTF-8
+LazyData:true
+RoxygenNote: 6.1.1
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
+Imports: 
+    Seurat,
+    reshape2,
+    Matrix,
+    mpmi,
+    DistMap
+Depends:
+    ggplot2
