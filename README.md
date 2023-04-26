@@ -21,7 +21,7 @@ The goal of AtlasInf is to generate vISHs which indecate gene's expression patte
 You can install the development version of AtlasInf from GitHub with:
 
 ``` r
-devtools::install_github("CodeBombinate/AtlasInf")
+devtools::install_github("Code/AtlasInf")
 ```
 
 ## Example
